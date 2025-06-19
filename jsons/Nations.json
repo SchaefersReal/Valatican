@@ -1,1 +1,26 @@
+[
+	{
+        "name": "Valatican",
+        "leaderName": "Hedler Sanders III",
+        "adjective": ["Valkanian"],
+        "startBias": ["Tundra", "Fresh water", "Snow", "Hill", "Avoid [Grassland]", "Avoid [Desert]"],
+        "preferredVictoryType": "Domination",
 
+        "startIntroPart1": "Fear Neither Hardship Nor Darkness",
+        "startIntroPart2": "Hope the world save us from this new age.",
+        "introduction": "Ah, hello there... i hope we can be unity as the one to rebuild our world.",
+        "neutralHello": "oh, hello... what you want from us?",
+        "hateHello": "oh, what you need? we can't help you for what you did.",
+    "tradeRequest": "Hello people... do you need some special primathy?",
+    "declaringWar": "You're a threat to the world. and we Will exterminate you.",
+        "attacked": "YOU WILL REGRET THE ACTION YOU DO!",
+    "defeated": "You Will regret for what you did.",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [0, 0, 0],
+        "uniqueName": "DESCENDANT OF ANCIENT",
+        "uniques": [ "[+2 Science] from every [Hill]","[+3 Production] from every [Hill]","[+50]% Strength","Earn [100]% of killed [Military] unit's [Strength] as [Science]","[-50]% maintenance costs <for [Land] units>","Double quantity of [Iron] produced","Double quantity of [Aluminum] produced","[+3 Food] from every [Snow]","[+2 Food] from every [Tundra]","[+2 Gold] from every [Coast]","[+2 Gold] from every [River]],
+        "cities": ["Valatican", "Ganheirsburg", "AEgirs", "Zwillingsterm"],
+    "spyNames": [""]
+   },
+]
