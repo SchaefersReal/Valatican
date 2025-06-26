@@ -19,7 +19,7 @@
         "outerColor": [255, 255, 255],
         "innerColor": [0, 0, 0],
         "uniqueName": "DESCENDANT OF ANCIENT",
-        "uniques": ["[+2 Science] from every [Hill]","[+4 Production] from every [Hill]","[+100]% Strength","Earn [100]% of killed [Military] unit's [Strength] as [Science]","[-50]% maintenance costs <for [Land] units>","Double quantity of [Coal] produced","Triple quantity of [Oil] produced","Double quantity of [Aluminum] produced","[+3 Food] from every [Snow]","[+2 Food] from every [Tundra]","[+2 Gold] from every [Coast]","[+2 Gold] from every [River]","[+3 Food] from every [Permafrost]"],
+        "uniques": ["[+2 Science] from every [Hill]","[+4 Production] from every [Hill]","[+100]% Strength","Earn [100]% of killed [Military] unit's [Strength] as [Science]","[-50]% maintenance costs <for [Land] units>","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","[+3 Food] from every [Snow]","[+2 Food] from every [Tundra]","[+2 Gold] from every [Coast]","[+2 Gold] from every [River]","[+3 Food] from every [Permafrost]"],
         "cities": ["Valatican", "Ganheirsburg", "AEgirs", "Zwillingsterm", "Iberia", "Montelisia", "Aubrey", "Estroypa", "Neugrads", "Strulmsken"],
     "spyNames": [""]
    },
