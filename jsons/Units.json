@@ -131,4 +131,22 @@
         	],
 		"attackSound": "phasers"
 	},
+	 {
+		"name": "Sarkaz Caster",
+		"replaces": "Armored Caster",
+	    "uniqueTo": "Valatican",
+		"unitType": "Caster",
+		"movement": 2,
+		"range": 2,
+		"strength": 32,
+		"rangedStrength": 43,
+		"cost": 460,
+		"requiredTech": "Replaceable Parts",
+		"uniques": [
+		"Comment [+30% Strength vs Art units]",
+		"[+30]% Strength <vs [Art Melee] units><hidden from users>",
+		"[+40]% Strength <vs [non-[Wounded]] units>",
+		"[+30]% Strength <vs [Caster] units><hidden from users>",
+        	],
+		"attackSound": "phasers"
 ]
