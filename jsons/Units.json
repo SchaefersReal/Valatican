@@ -1,4 +1,4 @@
-[
+ [
 	{
 		"name": "CitWar",
 		"unitType": "Civilian",
@@ -28,8 +28,7 @@
 		"Consumes [1] [Aluminum]",
 		"No defensive terrain bonus",
 		"[+100]% Strength",
-		"Never appears as a Barbarian unit"
-		],	
+		"Never appears as a Barbarian unit",	
 		"attackSound": "metalhit"
 	},
 	{
