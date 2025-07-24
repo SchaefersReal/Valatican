@@ -31,4 +31,62 @@
 			]
 		"attackSound": "gdrAttack"
 	},
+	{
+		"name": "Sarkaz Soldier",
+		"replaces": "Horseman",
+	    "uniqueTo": "Reunion",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 15,
+		"cost": 90,
+		"uniques": [
+            "Can move after attacking",
+			"Comment [+30% Strength vs Art units]",
+			"[+30]% Strength <vs [Art Melee] units><hidden from users>",
+            "[+30]% Strength <vs [Caster] units><hidden from users>"
+        ],
+		"upgradesTo": "Sarkaz Elite",
+		"requiredTech": "Horseback Riding",	
+		"obsoleteTech": "Chivalry",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sarkaz Elite",
+		"replaces": "Knight",
+	     "uniqueTo": "Reunion",
+		"unitType": "Armored",
+		"movement": 3,
+        "strength": 25,
+        "cost": 140,
+        "requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Sarkaz Centurion",
+        "promotions": ["Drill I"],
+        "uniques": [
+            "Can move after attacking",
+			"Comment [+30% Strength vs Art units]",
+			"[+30]% Strength <vs [Art Melee] units><hidden from users>",
+            "[+30]% Strength <vs [Caster] units><hidden from users>"
+        ],	
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Sarkaz Centurion",
+		"replaces": "Cavalry",
+	    "uniqueTo": "Reunion",
+		"unitType": "Armored",
+		"movement": 3,
+        "strength": 35,
+        "cost": 250,
+        "requiredTech": "Military Science",
+		"promotions": ["Drill I"],
+        "uniques": [
+			"Comment [+30% Strength vs Art units]",
+			"Can move after attacking",
+			"[+30]% Strength <vs [Art Melee] units><hidden from users>",
+            "[+30]% Strength <vs [Caster] units><hidden from users>",
+			"Heal this unit by [10] HP <upon losing at least [3] HP in a single attack>"	
+        ],	
+		"attackSound": "metalhit"
+	},
 ]
