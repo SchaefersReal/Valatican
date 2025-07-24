@@ -74,4 +74,20 @@
         ],	
 		"attackSound": "metalhit"
 	},
+	 {
+		"name": "Power Armor",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 140,
+		"cost": 580,
+		"requiredTech": "Robotics",	
+		"uniques": [
+		"Consumes [1] [Aluminum]",
+		"No defensive terrain bonus",
+		"[+30]% Strength <vs [{non-[Art Melee]} {Melee}] units><when defending>",
+		"[+40]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
+		"Never appears as a Barbarian unit"
+			]
+		"attackSound": "gdrAttack"
+	},
 ]
