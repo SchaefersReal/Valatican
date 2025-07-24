@@ -90,4 +90,45 @@
 			]
 		"attackSound": "gdrAttack"
 	},
+	 {
+		"name": "Art Caster",
+		"unitType": "Caster",
+		"movement": 1,
+		"range": 2,
+		"strength": 6,
+		"rangedStrength": 11,
+		"cost": 70,
+		"upgradesTo": "Elite Caster",
+		"requiredTech": "Writing",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Elite Caster",
+		"unitType": "Caster",
+		"movement": 2,
+		"range": 2,
+		"strength": 12,
+		"rangedStrength": 21,
+		"cost": 160,
+		"upgradesTo": "Armored Caster",
+		"requiredTech": "Education",
+		"obsoleteTech": "Replaceable Parts",
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Armored Caster",
+		"unitType": "Caster",
+		"movement": 2,
+		"range": 2,
+		"strength": 37,
+		"rangedStrength": 42,
+		"cost": 420,
+		"requiredTech": "Replaceable Parts",
+		"uniques": [
+		"[+15]% Strength <when defending>",
+		"[+40]% Strength <vs [{Ranged} {non-[Caster]}] units><when defending>"
+        	],
+		"attackSound": "phasers"
+	},
 ]
