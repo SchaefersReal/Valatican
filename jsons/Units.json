@@ -19,6 +19,7 @@
 	{
 		"name": "Power Armor",
 		"unitType": "Armored",
+		"uniqueTo": "Valatican"
 		"movement": 3,
 		"strength": 140,
 		"cost": 580,
@@ -34,7 +35,7 @@
 	{
 		"name": "Sarkaz Soldier",
 		"replaces": "Horseman",
-	    "uniqueTo": "Reunion",
+	    "uniqueTo": "Valatican",
 		"unitType": "Armored",
 		"movement": 3,
 		"strength": 15,
@@ -53,7 +54,7 @@
 	{
 		"name": "Sarkaz Elite",
 		"replaces": "Knight",
-	     "uniqueTo": "Reunion",
+	     "uniqueTo": "Valatican",
 		"unitType": "Armored",
 		"movement": 3,
         "strength": 25,
@@ -73,7 +74,7 @@
 	{
 		"name": "Sarkaz Centurion",
 		"replaces": "Cavalry",
-	    "uniqueTo": "Reunion",
+	    "uniqueTo": "Valatican",
 		"unitType": "Armored",
 		"movement": 3,
         "strength": 35,
