@@ -1,0 +1,19 @@
+[
+	{
+		"name": "CitWar",
+		"unitType": "Civilian",
+		"uniqueTo": "Ursus Empire",
+		"replaces": "Settler",
+		"movement": 3,
+		"cost": 131,
+		"uniques": ["[+5]% Strength bonus for [{Military} {Land}] units within [6] tiles",
+		"Founds a new city",
+		"Founds a new city <on foreign continents>",
+		"Excess Food converted to Production when under construction",
+		"Can see invisible [Submarine] units",
+		"Can see invisible [Sniper] units",
+		"Can carry [2] [Aircraft] units",
+		"Requires at least [1] population","Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20
+	},	
+]
