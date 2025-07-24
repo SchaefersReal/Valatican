@@ -12,7 +12,7 @@
         "name": "Art Melee",
         "movementType": "Land",
 		"uniques": [
-		"[-25]% Strength <vs [Caster] units><when attacking>",
+		"[+25]% Strength <vs [Caster] units><when attacking>",
 		"[+25]% Strength <vs [Armored] units>",
 		"[+25]% Strength <vs [Defender] units>",
 		]
@@ -41,8 +41,8 @@
         "name": "Defender",
         "movementType": "Land",
 		"uniques": [
-		"[-40]% Strength <vs [Melee] units><when attacking>"
-		"[+30]% Strength <vs [{non-[Caster]} {Melee}] units><when defending>",
+		"[+10]% Strength <vs [Melee] units><when attacking>"
+		"[+10]% Strength <vs [{non-[Caster]} {Melee}] units><when defending>",
 		"[+50]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
 		]
     	},
