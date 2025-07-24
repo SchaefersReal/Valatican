@@ -16,4 +16,19 @@
 		"Requires at least [1] population","Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20
 	},	
+	{
+		"name": "Power Armor",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 140,
+		"cost": 580,
+		"requiredTech": "Robotics",	
+		"uniques": "Valatican"
+		"Consumes [1] [Aluminum]",
+		"No defensive terrain bonus",
+		"[+100]% Strength",
+		"Never appears as a Barbarian unit"
+			]
+		"attackSound": "gdrAttack"
+	},
 ]
