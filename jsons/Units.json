@@ -29,8 +29,6 @@
 		"No defensive terrain bonus",
 		"[+100]% Strength",
 		"Never appears as a Barbarian unit"
-	],	
-		"attackSound": "metalhit"
 	},
 	{
 		"name": "Valkan Knight",
