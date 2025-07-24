@@ -2,7 +2,7 @@
 	{
 		"name": "CitWar",
 		"unitType": "Civilian",
-		"uniqueTo": "Ursus Empire",
+		"uniqueTo": "Valatican",
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 131,
