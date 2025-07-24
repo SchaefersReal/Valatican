@@ -4,7 +4,6 @@
         "movementType": "Land",
 		"uniques": [
 		"[-20]% Strength <vs [{Melee} {non-[Defender]} {non-[Armored]}] units><when defending>",
-		"[-25]% Strength <vs [Caster] units><when attacking>",
 		"[+40]% Strength <vs [Armored] units>",
 		"[+40]% Strength <vs [Defender] units>",
 		]
