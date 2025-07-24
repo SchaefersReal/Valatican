@@ -17,21 +17,6 @@
 		"hurryCostModifier": 20
 	},	
 	{
-		"name": "Power Armor",
-		"unitType": "Armored",
-		"uniqueTo": "Valatican"
-		"movement": 3,
-		"strength": 140,
-		"cost": 580,
-		"requiredTech": "Robotics",	
-		"uniques": "Valatican",
-		"consumes [1] [Aluminum]",
-		"No defensive terrain bonus",
-		"[+100]% Strength",
-		"Never appears as a Barbarian unit",	
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Valkan Knight",
 		"replaces": "Horseman",
 	    "uniqueTo": "Valatican",
