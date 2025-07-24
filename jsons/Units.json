@@ -33,7 +33,7 @@
 		"attackSound": "gdrAttack"
 	},
 	{
-		"name": "Sarkaz Soldier",
+		"name": "Valkan Knight",
 		"replaces": "Horseman",
 	    "uniqueTo": "Valatican",
 		"unitType": "Armored",
@@ -46,13 +46,13 @@
 			"[+30]% Strength <vs [Art Melee] units><hidden from users>",
             "[+30]% Strength <vs [Caster] units><hidden from users>"
         ],
-		"upgradesTo": "Sarkaz Elite",
+		"upgradesTo": "Valkanian Orders",
 		"requiredTech": "Horseback Riding",	
 		"obsoleteTech": "Chivalry",
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Sarkaz Elite",
+		"name": "Valkanian Orders",
 		"replaces": "Knight",
 	     "uniqueTo": "Valatican",
 		"unitType": "Armored",
@@ -61,7 +61,7 @@
         "cost": 140,
         "requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
-		"upgradesTo": "Sarkaz Centurion",
+		"upgradesTo": "Emperor Knights",
         "promotions": ["Drill I"],
         "uniques": [
             "Can move after attacking",
@@ -72,7 +72,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Sarkaz Centurion",
+		"name": "Emperor Knights",
 		"replaces": "Cavalry",
 	    "uniqueTo": "Valatican",
 		"unitType": "Armored",
