@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Valatican",
 		"replaces": "Settler",
-		"movement": 50,
+		"movement": 5,
 		"cost": 131,
 		"uniques": ["[+50]% Strength bonus for [{Military} {Land}] units within [6] tiles",
 		"Founds a new city",
