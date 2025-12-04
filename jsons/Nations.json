@@ -3,7 +3,7 @@
         "name": "Valatican",
         "leaderName": "Hedler Sanders III",
         "adjective": ["Valkanian"],
-        "startBias": ["Tundra", "Fresh water", "Snow", "Hill", "Avoid [Grassland]", "Avoid [Desert]"],
+        "startBias": ["Tundra", "Avoid [Grassland]", "Avoid [Desert]"],
         "preferredVictoryType": "Domination",
 
         "startIntroPart1": "Fear Neither Hardship Nor Darkness",
